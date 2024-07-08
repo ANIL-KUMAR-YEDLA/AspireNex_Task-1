@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/AspireNex_Task-1/static/css/main.2af82cea.css",
+    "main.js": "/AspireNex_Task-1/static/js/main.0930528f.js",
+    "static/js/415.4d6acbeb.chunk.js": "/AspireNex_Task-1/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/AspireNex_Task-1/static/js/787.1ed0c42c.chunk.js",
+    "static/media/weather1.png": "/AspireNex_Task-1/static/media/weather1.c72a7d33f64189fd5a9b.png",
+    "static/media/indian-judiciary-system-original.png": "/AspireNex_Task-1/static/media/indian-judiciary-system-original.73610d5b0b40b0a7590e.png",
+    "static/media/AK_LOGO.png": "/AspireNex_Task-1/static/media/AK_LOGO.36fdd271873d6b3408a2.png",
+    "static/media/home-main.svg": "/AspireNex_Task-1/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/about.png": "/AspireNex_Task-1/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/Zomato-Logo.png": "/AspireNex_Task-1/static/media/Zomato-Logo.08afda893ddfefc322d3.png",
+    "static/media/UTUBE.png": "/AspireNex_Task-1/static/media/UTUBE.2f83345cab8388fe6b7b.png",
+    "static/media/MY_RESUME.pdf": "/AspireNex_Task-1/static/media/MY_RESUME.1aaca9f3b4d010317b4b.pdf",
+    "static/media/Snake_OG-logo.png": "/AspireNex_Task-1/static/media/Snake_OG-logo.12632b468f1eab6675f5.png",
+    "static/media/FDSM.png": "/AspireNex_Task-1/static/media/FDSM.b5359e4c115bb06a16ae.png",
+    "static/media/home-bg.jpg": "/AspireNex_Task-1/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/avatar.svg": "/AspireNex_Task-1/static/media/avatar.5852f40fbb38aa284829fa3fb7722225.svg",
+    "static/media/pre.svg": "/AspireNex_Task-1/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/AspireNex_Task-1/index.html",
+    "main.2af82cea.css.map": "/AspireNex_Task-1/static/css/main.2af82cea.css.map",
+    "main.0930528f.js.map": "/AspireNex_Task-1/static/js/main.0930528f.js.map",
+    "415.4d6acbeb.chunk.js.map": "/AspireNex_Task-1/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/AspireNex_Task-1/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2af82cea.css",
+    "static/js/main.0930528f.js"
+  ]
+}
